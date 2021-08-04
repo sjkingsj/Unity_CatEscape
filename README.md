@@ -1,8 +1,13 @@
 # 실행 화면
+![5 1](https://user-images.githubusercontent.com/87646938/128157446-f6669071-0ce7-4a9c-9e5b-185b408af643.jpg)
+ - 초기 실행 화면
 
+![5 2](https://user-images.githubusercontent.com/87646938/128157501-51d2c37b-b8b0-4c6e-9c23-a3d318bd9a31.jpg)
+ - 좌,우 버튼을 눌러 이동하는 모습과 화살에 닿으면 HP 게이지가 줄어드는 모습
 
-
-
+<br>
+<br>
+<br>
 
 # WEEK4_Unity
 
